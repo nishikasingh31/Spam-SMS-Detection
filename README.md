@@ -24,17 +24,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/nishikasingh31/spam-sms-detection.git
 
-git clone https://github.com/nishikasingh31/spam-sms-detection.git
+2. Navigate to the repository directory: cd spam-sms-detection
 
-2. Navigate to the repository directory:
-
-cd spam-sms-detection
-
-3. Install the dependencies:
-
-pip install -r requirements.txt
+3. Install the dependencies: pip install -r requirements.txt
 
 4. Run the Jupyter Notebook `spam_sms_detection.ipynb` to train and evaluate the spam SMS detection model.
 
